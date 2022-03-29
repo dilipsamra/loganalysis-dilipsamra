@@ -9,5 +9,4 @@ To initialise the project please navigate to repo and run
 
 `./gradlew clean build`
 
-`java -jar build/libs/demo-0.0.1-SNAPSHOT.jar filepath
-`
+`java -jar build/libs/demo-0.0.1-SNAPSHOT.jar filepath`
